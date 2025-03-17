@@ -21,10 +21,10 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.write("Try to guess the random number!")
+st.write("Guess the random number!")
 
 # Difficulty selection radio button
-difficulty = st.radio("Select Difficulty:", ["Easy (1-100)", "Medium (1-500)", "Hard (1-1000)", "Custom"], index=0)
+difficulty = st.radio("Select Options Below According to your choice:", ["Easy (1-100)", "Medium (1-500)", "Hard (1-1000)", "Custom"], index=0)
 
 if difficulty == "Easy (1-100)":
     max_range = 100
