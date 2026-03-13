@@ -37,7 +37,7 @@ multiple Sources, still any issue than Feel Free to ask regarding the problem.
    ```
 4. Run the app:
    ```bash
-   streamlit run number_guessing_game.py
+   [streamlit run number_guessing_game.py](https://number-guessing-game-by-hussain.streamlit.app/
    ```
 
 ## Contribution
