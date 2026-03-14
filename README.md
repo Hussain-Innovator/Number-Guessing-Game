@@ -37,7 +37,7 @@ multiple Sources, still any issue than Feel Free to ask regarding the problem.
    ```
 4. Run the app:
    ```bash
-   https://number-guessing-game-by-hussain.streamlit.app
+   https://password-strength-meter-iqsmvnhxxw5jvadcutyhpm.streamlit.app
    ```
 
 ## Contribution
