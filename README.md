@@ -1,6 +1,6 @@
 "# Number Guessing Game ??" 
 
-# Number Guessing Game 🎯
+# Number Guessing Game 
 
 ## Overview
 This project is a **Streamlit-powered Number Guessing Game** where users try to guess a randomly generated number.

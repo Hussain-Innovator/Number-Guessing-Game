@@ -12,7 +12,7 @@ if "random_number" not in st.session_state:
     start_game()
 
 
-st.title("🎯 Number Guessing Game")
+st.title("Number Guessing Game")
 st.markdown(
     """
     <div style='text-align: center; border: 1px solid #4CAF50; background-color: #f9f9f9; border-radius: 10px; height: 50px; display: flex; align-items: center; justify-content: center;'>
@@ -53,7 +53,7 @@ if st.session_state.game_active:
         elif user_guess > st.session_state.random_number:
             st.write("Too high! Try again.")
         else:
-            st.write(f"🎉 Congratulations! You guessed the number in {st.session_state.attempts} attempts.")
+            st.write(f"Congratulations! You guessed the number in {st.session_state.attempts} attempts.")
             st.session_state.game_active = False
 
 # Reset Button
